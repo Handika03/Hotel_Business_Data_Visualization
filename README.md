@@ -23,7 +23,5 @@ Data visualization of monthly hotel booking give us the information that the mos
 ## Make histogram to show the impact of stay duration on hotel booking cancellation rate
 In this Data visualization we can get the insight that the cancellation rate is directly proportional to the stay duration. As the longer stay duration, the higher the percentage of booking hotel being cancelled. My recommendation is hotel management can make cancellation policy like cancellation charge. 
 
-## Make histogram to show the impact of lead time on hotel booking cancellaation rate
+## Make histogram to show the impact of lead time on hotel booking cancellation rate
 In this visualization we can get the insight that the hotel have the lowest cancellation rate percentage in 1 month of lead time. City hotel has high cancellation rate above 70% with lead time around 10-12 months. And resort hotel has around 40% cancellation rate all the time. Probably the customer forget about their booking or they have important event in that time so they cancell their booking. This can be happened coonsidering the long lead time (10-12 month). My recommendation is hotel management can give reminder for customer. the reminder can be very useful to remind them. And hotel management can make cancellation policy like cancellation charge if customer cancel < 1 month before their booking date. 
-
-
